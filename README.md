@@ -209,6 +209,7 @@ Then reload: `systemctl daemon-reload`. If the indexer still needs extra time to
 ## Tools & Utilities
 
 - 🟡 [Wazuh Tools](https://github.com/branchnetconsulting/wazuh-tools) - Collection of operational utility scripts
+- 🟡 [Wazuh Auto-Generator](https://github.com/21Yeet21/wazuh-auto-generator) - Generate decoders and rules from raw log samples using deterministic pattern analysis, with bulk log analysis and in-app field extraction simulation
 - 🟡 [MCP Server Wazuh](https://github.com/gbrigandi/mcp-server-wazuh) - Model Context Protocol server for Wazuh
 - 🟡 [Wazuh MCP Server](https://github.com/gensecaihq/Wazuh-MCP-Server) - Alternative MCP implementation
 
